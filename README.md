@@ -1,2 +1,3 @@
 # terraform-jenkins-pipeline
-Jenkins Pipeline for Terraform Repository (Infrastructure as Code)
+Example of Jenkinsfile (Pipeline) for Terraform Repository (Infrastructure as Code)
+
